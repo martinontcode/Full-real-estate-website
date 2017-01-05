@@ -1,5 +1,4 @@
 ![Login Form](http://i.imgur.com/aQDF4lV.png)
-
 # Full-real-estate-website
 A fully functional real estate website written in PHP.
 ## On HOLD
